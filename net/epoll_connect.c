@@ -140,3 +140,5 @@ char *get_client_addr_by_index(int index)
 	}
 }
 
+std::cout << "happy" << endl;
+
