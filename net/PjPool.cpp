@@ -38,3 +38,7 @@ void* CPjPool::Alloc(pj_size_t iSize) {
     ASSERT_RET_VALUE(nullptr != mpPjPool && iSize > 0, nullptr);
     return pj_pool_zalloc(mpPjPool, iSize);
 }
+
+
+
+cout << "test" << endl;
