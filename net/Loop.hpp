@@ -202,10 +202,13 @@ namespace uv
 	{
 		return *loop_ptr_;
 	}
+	
 	inline uv_loop_t * Loop::value()
 	{
 		return loop_ptr_;
 	}
 }
+
+	std::cout << "Hello , every day !!!" << std::endl;
 
 #endif
