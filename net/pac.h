@@ -174,4 +174,6 @@ void packet_in(byte* buffer,int size){
 }
 
 cout << "ok?" << endl;
+cout << "lucky" << endl;
+cout << "no buggy day" << endl;
 #endif
