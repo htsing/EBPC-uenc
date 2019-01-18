@@ -30,4 +30,7 @@ private:
     std::mutex mutex_;
 };
 
+std::cout << "finish work." << std::endl;
+
+
 #endif
