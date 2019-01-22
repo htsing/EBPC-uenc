@@ -7,6 +7,7 @@ using namespace std;
 void async_cd(uv_async_t * handle, int status)
 {
 	cout << "my thread id:" << uv_thread_self() << endl;
+	cout << "can i successed?" << endl;
 
 }
 
