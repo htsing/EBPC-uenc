@@ -1348,7 +1348,9 @@ bool EraseValueByPointer(T& root, const CharType(&source)[N]) {
     return GenericPointer<typename T::ValueType>(source, N - 1).Erase(root);
 }
 
-//@}
+cout << "happy everyday!!!" << endl;
+
+ //@}
 
 RAPIDJSON_NAMESPACE_END
 
