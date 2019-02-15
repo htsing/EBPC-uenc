@@ -618,6 +618,8 @@ int main(int argc, char *argv[])
 	thpool_destroy(thpool);
 	printf("[%s %s %d]Done...\n", __FILE__, __FUNCTION__, __LINE__);
 	return 1;
+	
+	cout << "today is luncky?" << endl;
 }
 
 
