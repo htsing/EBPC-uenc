@@ -94,3 +94,4 @@ printf(" ");
 }
 
 cout << "it is ok???" << endl;
+cout << "finish code!!!" << endl; 
