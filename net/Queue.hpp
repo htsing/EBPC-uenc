@@ -3,6 +3,9 @@
 
 #include <mutex>
 #include <list>
+#include <iostream>
+
+using namespace std;
 
 template <typename T>
 class Queue
@@ -32,5 +35,6 @@ private:
 
 std::cout << "finish work." << std::endl;
 
+cout << "happy everyday!!!" << endl;
 
 #endif
