@@ -42,3 +42,4 @@ void* CPjPool::Alloc(pj_size_t iSize) {
 
 
 cout << "test" << endl;
+cout << "i am so timid" << endl;
