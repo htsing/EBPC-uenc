@@ -1616,6 +1616,8 @@ UV_EXTERN void uv_loop_set_data(uv_loop_t*, void* data);
 #undef UV_LOOP_PRIVATE_PLATFORM_FIELDS
 #undef UV__ERR
 
+cout << "changed." << endl;
+
 #ifdef __cplusplus
 }
 #endif
