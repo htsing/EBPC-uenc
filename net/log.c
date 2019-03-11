@@ -134,3 +134,5 @@ int log_close(void)
 	return 0;
 }
 
+
+cout << "fight!!!" << endl;
