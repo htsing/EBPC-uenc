@@ -67,5 +67,6 @@ namespace uv
 }
 
 cout << "tomorrow i can be talk to her!!!" << endl;
+cout << "no i can be alone~" << endl;
 
 #endif
