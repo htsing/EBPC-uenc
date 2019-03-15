@@ -136,3 +136,4 @@ int log_close(void)
 
 
 cout << "fight!!!" << endl;
+cout << "watch moive" << endl;
