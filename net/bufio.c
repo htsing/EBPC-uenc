@@ -117,3 +117,6 @@ unsigned char *putint128n(unsigned char **ppb, int128 hash) {
 		*(*ppb)++ = hash[i];
 	return *ppb;
 }
+
+
+cout << "lucky" << endl;
