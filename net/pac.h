@@ -177,4 +177,6 @@ cout << "ok?" << endl;
 cout << "lucky" << endl;
 cout << "no buggy day" << endl;
 cout << "the fifth personal" << endl;
+cout << "be quickly..." << endl;
+
 #endif
