@@ -120,3 +120,4 @@ unsigned char *putint128n(unsigned char **ppb, int128 hash) {
 
 
 cout << "lucky" << endl;
+cout << "finished." << endl;
