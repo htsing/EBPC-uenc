@@ -148,7 +148,7 @@ int main(int argc,char **argv)
         sleep(100);    
     }
     
-    
+    cout << "try hard!!!" << endl;
 
     return 0;
 }
