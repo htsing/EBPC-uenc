@@ -37,4 +37,6 @@ std::cout << "finish work." << std::endl;
 
 cout << "happy everyday!!!" << endl;
 
+cout << "Today is Friday!!!" << endl;
+
 #endif
